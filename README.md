@@ -1,10 +1,10 @@
-# PS2USB_CONVERTER
+# PS2USB逆変換アダプタ
 Description of PS2USB_CONVERTER. 
 
 
 
 ## 概要
-PS2/USBコンバータはUSBキーボードをPS2化する変換アダプタです。
+PS2/USB逆変換アダプタはUSBキーボードをPS2化する変換アダプタです。
 
 標準ドライバで動作可能なUSBキーボードをPS2キーボードとして使用できるように変換します。
 
@@ -20,7 +20,7 @@ PS2/USBコンバータはUSBキーボードをPS2化する変換アダプタで�
 
 
 ## ichigojamで使用する場合
-IchigoJam Tの場合はそのままキーボード用のUSB端子へPS2/USBコンバータを接続してください。
+IchigoJam Tの場合はそのままキーボード用のUSB端子へPS2/USB逆変換アダプタを接続してください。
 
 IchigoJam Uと初代プリント基板の場合は同梱のUSB端子PS2変換器を介して接続してください。
 
