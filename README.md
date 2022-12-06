@@ -51,4 +51,12 @@ IchigoJam Uと初代プリント基板の場合は同梱のUSB端子PS/2変換�
   * 上記写真は移行前につき、移行後の製品は若干基板実装部品等異なります  
   * 同梱のPS/2変換器の色や形状は告知なしに変更する場合があります  
   
+ ## 販売サイト
+  * [スイッチサイエンス][1]
+  * [家電のケンちゃん][2]
+  * [PCN][3]
+  
 [0]: http://www.aitendo.com/product/16414 "*0"
+[1]: https://www.switch-science.com/products/3785
+[2]: https://www.kadenken.com/view/item/000000000767
+[3]: https://hello002.stores.jp/items/5bce8ce05f78661b790000ce
