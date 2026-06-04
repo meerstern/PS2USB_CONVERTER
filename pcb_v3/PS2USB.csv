@@ -1,0 +1,13 @@
+"ID";"参照記号";"パッケージ";"数";"名称";"Supplier and ref";
+1;"U1";"MSOP-10_3x3mm_P0.5mm";1;"CH554E";;;
+2;"R4,R1,R3";"R_0603_1608Metric";3;"2.2k";;;
+3;"JP1";"PinHeader_1x02_P2.54mm_Vertical";1;"BOOT";;;
+4;"C1,C16";"C_0603_1608Metric";2;"0.1u";;;
+5;"D2";"LED_0603_1608Metric";1;"ACT";;;
+6;"D1";"LED_0603_1608Metric";1;"PWR";;;
+7;"P1";"USBA";1;"USB_PS2";;;
+8;"JP2";"PinHeader_1x03_P2.54mm_Vertical";1;"UART";;;
+9;"F1";"Fuse_0603_1608Metric";1;"Fuse";;;
+10;"P2";"USBHOST";1;"USB_HOST";;;
+11;"R2";"R_0603_1608Metric";1;"3.3k";;;
+12;"R7,R8";"R_0603_1608Metric";2;"4.7k";;;
